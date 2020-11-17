@@ -15,7 +15,7 @@ def promedio (a,b,c):
     return promediof
 
 
-print ("Nombre de alumno: " + nombre)
+print ("Nommbre de alumno: " + nombre)
 print ("Apellido de alumno: " + apellido)
 promedio_alumno = promedio (nota_literatura, nota_fisica, nota_matematica)
 print ("Promedio de alumno: " + str(promedio_alumno))

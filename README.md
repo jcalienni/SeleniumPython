@@ -8,4 +8,6 @@ Deberán generarse carpetas por para organizar los scripts.
 
 completar este documento con las referencias necesarias para entender su utilización y contenido.
 
-Command Line:
+Command Line: pytest -m -s
+
+Comando 2
